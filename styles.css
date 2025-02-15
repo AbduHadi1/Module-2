@@ -66,7 +66,8 @@ p {
     }
 
     .container .box1:nth-child(3) {
-        width: 100%;
+     width: 97.5%;
+        margin-top: 10px;
     }
 }
 
